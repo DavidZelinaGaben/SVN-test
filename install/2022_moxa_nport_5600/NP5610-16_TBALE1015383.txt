@@ -1,0 +1,290 @@
+
+[NPort Configuration File]
+CheckCode=cfg2
+
+[Basic Information (not changeable)]
+APID=0x80005610
+HWID=0x5613
+Serial No=TBALE1015383
+MAC Address=00:90:E8:A1:76:DE
+Firmware version=0x3110000
+
+[Basic Settings]
+Server Name=NP5610-16_TBALE1015383
+Time Zone=3600
+Time Zone index=25
+Date_Year=122
+Date_Month=5
+Date_Day=9
+Time_Hour=10
+Time_Minute=36
+Time_Second=5
+Time_Milliseconds=0
+Time Server=10.9.0.1
+Console Enabled=287
+Moxa Service Encrypt Version=0
+HTTP Session=6
+Auto Logout=5
+TLS Mininum Version=3
+HTTP Advanced Setting=0
+
+[Network Settings]
+IP Address=10.9.12.90
+Netmask=255.255.255.0
+Gateway=10.9.12.1
+IP Configuration=0
+DNS Server 1=10.1.1.126
+DNS Server 2=10.1.1.146
+
+[SNMP]
+Enable SNMP=0
+Community=public
+Write Community=private
+Location=
+Contact=
+Operation Mode=0
+Read User Name=
+Read Authentication Mode=0
+Read Privacy Mode=0
+Read Password=
+Read Privacy=
+Write User Name=
+Write Authentication Mode=0
+Write Privacy Mode=0
+Write Password=
+Write Privacy=
+Trap=
+Trap Send Mode=0
+Trap Community=
+
+[LLDP]
+Enable LLDP=1
+Message Transmit Interval=30
+
+[Mail]
+Mail Server=smtp.malfini.com
+Mail Server Login=0
+User Name=
+Password=
+From Address=NP5610-16_TBALE1015383@malfini.com
+To Address1=it-servers@malfini.com
+To Address2=
+To Address3=
+To Address4=
+
+[Accessible IP List]
+Enabled=0
+Rule1=0,,
+Rule2=0,,
+Rule3=0,,
+Rule4=0,,
+Rule5=0,,
+Rule6=0,,
+Rule7=0,,
+Rule8=0,,
+Rule9=0,,
+Rule10=0,,
+Rule11=0,,
+Rule12=0,,
+Rule13=0,,
+Rule14=0,,
+Rule15=0,,
+Rule16=0,,
+
+[Serial]
+Port1=9600,3,0,1,0,
+Port2=9600,3,0,1,0,
+Port3=9600,3,0,1,0,
+Port4=9600,3,0,1,0,
+Port5=9600,3,0,1,0,
+Port6=9600,3,0,1,0,
+Port7=9600,3,0,1,0,
+Port8=9600,3,0,1,0,
+Port9=9600,3,0,1,0,
+Port10=9600,3,0,1,0,
+Port11=9600,3,0,1,0,
+Port12=9600,3,0,1,0,
+Port13=9600,3,0,1,0,
+Port14=9600,3,0,1,0,
+Port15=9600,3,0,1,0,
+Port16=9600,3,0,0,0,
+
+[Operating Mode]
+Port1=10
+Port2=10
+Port3=10
+Port4=10
+Port5=10
+Port6=10
+Port7=10
+Port8=10
+Port9=10
+Port10=10
+Port11=10
+Port12=10
+Port13=10
+Port14=10
+Port15=10
+Port16=10
+
+[Operating Mode Option 2]
+Port1=16,0x00,0x00,0,0
+Port2=16,0x00,0x00,0,0
+Port3=16,0x00,0x00,0,0
+Port4=16,0x00,0x00,0,0
+Port5=16,0x00,0x00,0,0
+Port6=16,0x00,0x00,0,0
+Port7=16,0x00,0x00,0,0
+Port8=16,0x00,0x00,0,0
+Port9=16,0x00,0x00,0,0
+Port10=16,0x00,0x00,0,0
+Port11=16,0x00,0x00,0,0
+Port12=16,0x00,0x00,0,0
+Port13=16,0x00,0x00,0,0
+Port14=16,0x00,0x00,0,0
+Port15=16,0x00,0x00,0,0
+Port16=16,0x00,0x00,0,0
+
+[Operating Mode Option 1]
+Port1=0,7,1,10001,966,0,0
+Port2=0,7,1,10002,967,0,0
+Port3=0,7,1,10003,968,0,0
+Port4=0,7,1,10004,969,0,0
+Port5=0,7,1,10005,970,0,0
+Port6=0,7,1,10006,971,0,0
+Port7=0,7,1,10007,972,0,0
+Port8=0,7,1,10008,973,0,0
+Port9=0,7,1,10009,974,0,0
+Port10=0,7,1,10010,975,0,0
+Port11=0,7,1,10011,976,0,0
+Port12=0,7,1,10012,977,0,0
+Port13=0,7,1,10013,978,0,0
+Port14=0,7,1,10014,979,0,0
+Port15=0,7,1,10015,980,0,0
+Port16=0,7,1,10016,981,0,0
+
+[PPP User Table]
+PPP User Account1=
+PPP User Account2=
+PPP User Account3=
+PPP User Account4=
+PPP User Account5=
+PPP User Account6=
+PPP User Account7=
+PPP User Account8=
+PPP User Account9=
+PPP User Account10=
+PPP User Account11=
+PPP User Account12=
+PPP User Account13=
+PPP User Account14=
+PPP User Account15=
+PPP User Account16=
+PPP User Password1=
+PPP User Password2=
+PPP User Password3=
+PPP User Password4=
+PPP User Password5=
+PPP User Password6=
+PPP User Password7=
+PPP User Password8=
+PPP User Password9=
+PPP User Password10=
+PPP User Password11=
+PPP User Password12=
+PPP User Password13=
+PPP User Password14=
+PPP User Password15=
+PPP User Password16=
+
+[Notification Message]
+Login Message=
+Login Authentication Failure Message=Login Failed
+
+[User Settings]
+User Enable1=1
+User Enable2=0
+User Enable3=0
+User Enable4=0
+User Enable5=0
+User Enable6=0
+User Account1=admin
+User Account2=
+User Account3=
+User Account4=
+User Account5=
+User Account6=
+User Pass1=moxa
+User Pass2=
+User Pass3=
+User Pass4=
+User Pass5=
+User Pass6=
+User Group1=0
+User Group2=1
+User Group3=1
+User Group4=1
+User Group5=1
+User Group6=1
+
+[Password Login Policy]
+Password Minimum Length=4
+Password Complexity Strength Check=0
+At Least One Digit=0
+Mixed Upper And Lower Case Letters=0
+At Least One Special Character=0
+Password Lifetime=0
+Account Login Failure Lockout=0
+Retry Failure Threshold=5
+Lockout Time=5
+
+[System Log Settings]
+Log System=0
+Log Network=0
+Log Config=0
+Log OpMode=0
+Remote Log System=0
+Remote Log Network=0
+Remote Log Config=0
+Remote Log OpMode=0
+
+[Remote Log Server]
+SYSLOG Server=
+SYSLOG Facility=0
+SYSLOG Severity=0
+
+[Event Log Settings]
+Event Log Capacity Warning=0
+Warning at=0
+Event log oversize action=0
+
+[Auto Warning]
+Mail=0x1F
+Trap=0x0
+
+[Port Auto Warning]
+Port1=0x00,0x00
+Port2=0x00,0x00
+Port3=0x00,0x00
+Port4=0x00,0x00
+Port5=0x00,0x00
+Port6=0x00,0x00
+Port7=0x00,0x00
+Port8=0x00,0x00
+Port9=0x00,0x00
+Port10=0x00,0x00
+Port11=0x00,0x00
+Port12=0x00,0x00
+Port13=0x00,0x00
+Port14=0x00,0x00
+Port15=0x00,0x00
+Port16=0x00,0x00
+
+[IP Address Report]
+Server=
+Port=4002
+Period=10
+
+[Password]
+Password=moxa
+LCM & Reset Protect=0
